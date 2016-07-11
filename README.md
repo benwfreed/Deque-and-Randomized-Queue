@@ -1,5 +1,6 @@
-# deques
-An Implementation of the Double-Ended Queue ADT
+# Deque and Randomized Queue
+
+An Implementation of the Double-Ended and Randomized Queue ADTs
 
 This project implements two generic data types. The first is a double-ended queue or deque. The second is a randomized queue.
 
